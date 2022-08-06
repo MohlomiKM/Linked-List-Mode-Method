@@ -1,6 +1,8 @@
 # Linked-List-Mode-Method
 A Method that receives a list as a parameter, Returning the element(s) that appears the most in the list.
 
+# Development
+
 ## Brief Description of the problem solving approach
 Step 1: Diagram
 1.1	Method Call in Test Program:
